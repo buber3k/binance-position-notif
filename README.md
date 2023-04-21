@@ -15,7 +15,7 @@ Aby uruchomić skrypt, musisz mieć zainstalowanego Pythona 3.6 lub nowszego. Po
 - schedule
 - requests
 
-Możesz zainstalować te biblioteki, używając polecenia:
+Możesz zainstalować te biblioteki, używając polecenia:<br>
 `pip install python-binance python-telegram-bot schedule requests`
 
 Unikalne wartości w pliku final.py:
