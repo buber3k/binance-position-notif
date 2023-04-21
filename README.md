@@ -16,7 +16,7 @@ Aby uruchomić skrypt, musisz mieć zainstalowanego Pythona 3.6 lub nowszego. Po
 - requests
 
 Możesz zainstalować te biblioteki, używając polecenia:
-'pip install python-binance python-telegram-bot schedule requests'
+`pip install python-binance python-telegram-bot schedule requests`
 
 Unikalne wartości w pliku final.py:
    - telegram_token - token bota na platformie Telegram
